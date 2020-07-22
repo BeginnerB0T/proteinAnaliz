@@ -1,0 +1,10 @@
+C:\Users\onurc\source\repos\onurcan_proteinAnaliz\onurcan_proteinAnaliz\bin\Debug\onurcan_proteinAnaliz.exe.config
+C:\Users\onurc\source\repos\onurcan_proteinAnaliz\onurcan_proteinAnaliz\bin\Debug\onurcan_proteinAnaliz.exe
+C:\Users\onurc\source\repos\onurcan_proteinAnaliz\onurcan_proteinAnaliz\bin\Debug\onurcan_proteinAnaliz.pdb
+C:\Users\onurc\source\repos\onurcan_proteinAnaliz\onurcan_proteinAnaliz\obj\Debug\onurcan_proteinAnaliz.csprojAssemblyReference.cache
+C:\Users\onurc\source\repos\onurcan_proteinAnaliz\onurcan_proteinAnaliz\obj\Debug\onurcan_proteinAnaliz.Form1.resources
+C:\Users\onurc\source\repos\onurcan_proteinAnaliz\onurcan_proteinAnaliz\obj\Debug\onurcan_proteinAnaliz.Properties.Resources.resources
+C:\Users\onurc\source\repos\onurcan_proteinAnaliz\onurcan_proteinAnaliz\obj\Debug\onurcan_proteinAnaliz.csproj.GenerateResource.cache
+C:\Users\onurc\source\repos\onurcan_proteinAnaliz\onurcan_proteinAnaliz\obj\Debug\onurcan_proteinAnaliz.csproj.CoreCompileInputs.cache
+C:\Users\onurc\source\repos\onurcan_proteinAnaliz\onurcan_proteinAnaliz\obj\Debug\onurcan_proteinAnaliz.exe
+C:\Users\onurc\source\repos\onurcan_proteinAnaliz\onurcan_proteinAnaliz\obj\Debug\onurcan_proteinAnaliz.pdb
